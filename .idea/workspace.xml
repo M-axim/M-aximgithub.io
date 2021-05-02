@@ -20,7 +20,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3733ec1-3035-4f42-a37a-fd5e5ae0f51f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/M-aximgithub.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/libs.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/libs.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Gotham-Bold.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Gotham-Bold.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Gotham-Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Gotham-Bold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Gotham-Bold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Gotham-Bold.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Gotham-Book.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Gotham-Book.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Gotham-Book.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Gotham-Book.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Gotham-Book.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Gotham-Book.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Gotham-Medium.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Gotham-Medium.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Gotham-Medium.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Gotham-Medium.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Gotham-Medium.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Gotham-Medium.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/footer-photo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/footer-photo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/footer-photo.webp" beforeDir="false" afterPath="$PROJECT_DIR$/img/footer-photo.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/Search.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/Search.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/Write.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/Write.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/comment.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/comment.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/down-arrow.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/down-arrow.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/facebook.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/facebook.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/in.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/in.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/png/Search.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/png/Search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/png/Search.webp" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/png/Search.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/png/Write.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/png/Write.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/png/Write.webp" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/png/Write.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/png/comment.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/png/comment.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/png/comment.webp" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/png/comment.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/png/down-arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/png/down-arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/png/down-arrow.webp" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/png/down-arrow.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/png/facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/png/facebook.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/png/facebook.webp" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/png/facebook.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/png/in.svg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/png/in.svg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/png/in.svg.webp" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/png/in.svg.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/png/skype.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/png/skype.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/png/skype.webp" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/png/skype.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/png/twitter.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/png/twitter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/png/twitter.webp" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/png/twitter.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/skype.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/skype.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon/twitter.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon/twitter.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.webp" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/main-photo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/main-photo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/main-photo.webp" beforeDir="false" afterPath="$PROJECT_DIR$/img/main-photo.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/main-photo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/main-photo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/main-photo2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/img/main-photo2.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/main-photo3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/main-photo3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/main-photo3.webp" beforeDir="false" afterPath="$PROJECT_DIR$/img/main-photo3.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/phone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/phone.webp" beforeDir="false" afterPath="$PROJECT_DIR$/img/phone.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photo-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/photo-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photo-1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/img/photo-1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photo-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/photo-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photo-2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/img/photo-2.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photo-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/photo-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photo-3.webp" beforeDir="false" afterPath="$PROJECT_DIR$/img/photo-3.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photo-people1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/photo-people1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photo-people1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/img/photo-people1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/libs.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +123,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619967310873</updated>
-      <workItem from="1619967312024" duration="946000" />
+      <workItem from="1619967312024" duration="635000" />
     </task>
     <servers />
   </component>

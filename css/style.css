@@ -180,8 +180,7 @@ body.lock {
     top: 0;
     left: 0;
     width: 100%;
-    padding-top: 22px;
-    padding-bottom: 12px;
+    padding-top: 8px 0;
     border-bottom: 1px solid white;
     z-index: 10;
 }
@@ -430,7 +429,7 @@ body.lock {
     -webkit-flex: 0 1 25%;
     -ms-flex: 0 1 25%;
     flex: 0 1 25%;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 
 .block .cards-item {
